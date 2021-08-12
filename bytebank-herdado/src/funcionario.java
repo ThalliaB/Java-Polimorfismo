@@ -1,14 +1,13 @@
 
-public class funcionario {
+//O abstract aqui significa que não pode dar new em um objeto.
+public abstract class funcionario {
 
 	private String nome;
 	private String cpf;
 	private double salario;
 
-	
-	public double getBonificacao() {
-		return this .salario * 0.05;
-	}
+	//No método a palavra abstract sinaliza para o código que esse método não tem corpo(ou escopo)
+	public abstract double getBonificacao();
 	
 	
 	public String getNome() {
