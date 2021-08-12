@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="ContaPoupanca"/>
+    <fullyQualifiedTypeName name="sistemaInterno"/>
+    <fullyQualifiedTypeName name="administrador"/>
 </qualifiedTypeNameHistroy>
