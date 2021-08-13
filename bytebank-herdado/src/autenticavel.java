@@ -1,5 +1,5 @@
 
-public abstract class funcionarioAutenticavel extends funcionario {
+public abstract class autenticavel {
 	
 	private int senha;
 

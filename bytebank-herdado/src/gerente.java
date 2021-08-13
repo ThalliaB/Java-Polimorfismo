@@ -1,5 +1,5 @@
 
-public class gerente extends funcionarioAutenticavel {
+public class gerente extends funcionario {
 
 	
 	public double getBonificacao() {
