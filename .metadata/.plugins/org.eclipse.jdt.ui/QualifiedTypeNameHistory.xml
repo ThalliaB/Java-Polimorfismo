@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="ContaPoupanca"/>
     <fullyQualifiedTypeName name="sistemaInterno"/>
     <fullyQualifiedTypeName name="administrador"/>
+    <fullyQualifiedTypeName name="autenticacaoUtil"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="seguroDeVida"/>
+    <fullyQualifiedTypeName name="calculadorDeImposto"/>
 </qualifiedTypeNameHistroy>
